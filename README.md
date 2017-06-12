@@ -10,7 +10,7 @@ In order to use this building block you require a license key. Contact nestorsup
 
 ## Release Notes
 
-### 3000.x
+### 3000.170612
 - Fix redirect bug after login
 
 ### 3000.161216
